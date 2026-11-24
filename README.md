@@ -38,6 +38,11 @@ python rings.py input.jpg
 | `<name>-rings-preview.png` | 縮小プレビュー |
 | `<name>-rings.stl` | 印刷用メッシュ（デフォルト 200mm 幅 × 0.8mm 厚） |
 
+## 例
+
+実際にコピー用紙へ PLA で印刷した例（Muse『Absolution』のジャケットを変換）は X に投稿している：
+[印刷例](https://x.com/AKIRA2390_robo/status/2125049459176505750)
+
 ## オプション
 
 | オプション | デフォルト | 説明 |
